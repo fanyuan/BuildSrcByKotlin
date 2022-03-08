@@ -1,1 +1,1 @@
-C:\Users\shaomingfa\Desktop\test\project\BuildSrcByKotlin\buildSrc\build\classes\kotlin\main\Libs.class;C:\Users\shaomingfa\Desktop\test\project\BuildSrcByKotlin\buildSrc\build\classes\kotlin\main\Versions.class
+D:\work\github\BuildSrcByKotlin\buildSrc\build\classes\kotlin\main\Libs.class;D:\work\github\BuildSrcByKotlin\buildSrc\build\classes\kotlin\main\Versions.class

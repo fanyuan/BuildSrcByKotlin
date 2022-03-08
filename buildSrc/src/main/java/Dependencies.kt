@@ -5,6 +5,11 @@ object Versions {
     val retrofit = "2.3.0"
     val rxjava = "2.1.9"
     val kotlin_version = "1.4.21"
+
+    val compileSdkVersion = 30
+    val buildToolsVersion = "30.0.3"
+    val minSdkVersion = 18
+    val targetSdkVersion = 30
 }
 
 object Libs {
@@ -21,5 +26,7 @@ object Libs {
     val junit = "junit:junit:4.+"
     val androidx_junit = "androidx.test.ext:junit:1.1.2"
     val espresso = "androidx.test.espresso:espresso-core:3.3.0"
+
+    val androidJUnitRunner = "androidx.test.runner.AndroidJUnitRunner"
 
 }
