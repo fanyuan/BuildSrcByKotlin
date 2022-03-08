@@ -1,4 +1,4 @@
 //include ':buildSrc'
 include ':app'
 rootProject.name = "BuildSrcByKotlin"
-include ':buildsample'
+include ':buildSample'
