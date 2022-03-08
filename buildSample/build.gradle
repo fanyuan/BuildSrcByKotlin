@@ -2,13 +2,17 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
 }
+
 apply from: rootProject.file('build_config.gradle')
 android {
+
 
     defaultConfig {
         applicationId "com.build.sample"
         versionCode 1
         versionName "1.0"
+
+        minSdkVersion rootProject.ext.versions.minSdkVersion
     }
 
     kotlinOptions {
